@@ -1,1 +1,1 @@
-* * * * * /bin/bash $PROJECT_LOCATION/init.sh >> /var/log/ip-dns-updater.log
+* * * * * cd [DIR]/ip-dns-updater && /bin/bash init.sh >> /var/log/ip-dns-updater.log
