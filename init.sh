@@ -1,5 +1,4 @@
 . ./app/config.sh
-CACHE_FILE="ip.cache"
 
 if [ ! -f "$CACHE_FILE" ]; then
 	touch $CACHE_FILE
