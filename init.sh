@@ -1,3 +1,4 @@
+#!/bin/bash
 . ./app/config.sh
 
 if [ ! -f "$CACHE_FILE" ]; then
